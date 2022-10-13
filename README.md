@@ -1,6 +1,6 @@
 # CASE-STUDY-Capstone-Project
 This project is the capstone assignment for the Google Data Analytics Professional Certificate program. The program prepares participants for a career in data analytics with training focused on key analytical skills (data cleaning, analysis, and visualization) and tools (Excel, SQL, R Programming, Tableau)
-[The Analysis Preview](https://htmlpreview.github.io/?https://github.com/claykays/CASE-STUDY-Capstone-Project/blob/7f5085b4f7cd492836d8eb5de3c5fc2fe30c351c/Cyclisti_-Case_Study.html)
+[The Analysis Preview](https://github.com/claykays/CASE-STUDY-Capstone-Project/blob/d1b0bbd8b482027756a29c71603d3386066081d7/Cyclisti_-Case_Study.html)
 
 
 ## Background
